@@ -542,5 +542,13 @@ Phase 4: Ensemble of all models with confidence scoring
 
 ---
 
+---
+
+## Related Documents
+
+- [ML, Patterns & Predictions Deep Dive](./ml_patterns_brainstorm.md) - Comprehensive ML/AI brainstorming
+
+---
+
 *Session Updated: 2026-02-02*
 *Status: Brainstorming Complete - Specs Generated*

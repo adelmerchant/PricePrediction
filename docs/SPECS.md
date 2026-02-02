@@ -276,11 +276,13 @@ A cloud-native stock market price prediction application that enables users to:
 | Component | Technology | Notes |
 |-----------|------------|-------|
 | Training | Python 3.11+ | scikit-learn, PyTorch, XGBoost |
+| Training Location | Local GPU | RTX 3080+ recommended |
 | Feature Engineering | pandas, numpy | Data manipulation |
 | Time Series | Prophet, statsmodels | ARIMA, seasonal |
-| Deep Learning | PyTorch | LSTM, Transformer |
-| Inference (.NET) | ML.NET 3.0 | ONNX model runtime |
-| Experiment Tracking | MLflow | Optional |
+| Deep Learning | PyTorch + CUDA | LSTM, Transformer |
+| Inference (.NET) | ML.NET 3.0 + ONNX Runtime | ONNX model runtime |
+| Experiment Tracking | MLflow | Local installation |
+| Model Export | ONNX | Cross-platform inference |
 
 ### 4.4 Infrastructure
 
