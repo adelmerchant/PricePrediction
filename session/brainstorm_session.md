@@ -547,6 +547,7 @@ Phase 4: Ensemble of all models with confidence scoring
 ## Related Documents
 
 - [ML, Patterns & Predictions Deep Dive](./ml_patterns_brainstorm.md) - Comprehensive ML/AI brainstorming
+- [Phase 1 Prototype Plan](../docs/PHASE1_PROTOTYPE_PLAN.md) - Concrete implementation plan for single-user prototype
 
 ---
 
