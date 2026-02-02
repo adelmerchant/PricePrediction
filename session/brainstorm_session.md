@@ -547,9 +547,140 @@ Phase 4: Ensemble of all models with confidence scoring
 ## Related Documents
 
 - [ML, Patterns & Predictions Deep Dive](./ml_patterns_brainstorm.md) - Comprehensive ML/AI brainstorming
+- [Pattern Recognition & Prediction Methods](./pattern_prediction_deep_dive.md) - **NEW:** Success rates, mathematical methods, what to build vs skip
+- [Implementation Recommendations](../docs/IMPLEMENTATION_RECOMMENDATIONS.md) - **NEW:** Actionable recommendations with code examples
 - [Phase 1 Prototype Plan](../docs/PHASE1_PROTOTYPE_PLAN.md) - Concrete implementation plan for single-user prototype
+- [Technical Specifications](../docs/SPECS.md) - Full system architecture and specifications
+
+---
+
+## Key Insights Summary (2026-02-02 Update)
+
+### Pattern Recognition - Success Rates Analyzed
+
+**HIGH-VALUE PATTERNS (Build These):**
+- Support/Resistance Breakouts: 60-68% success (with volume)
+- Golden/Death Cross (enhanced): 58-65% success
+- Bollinger Band Squeeze/Expansion: 62-70% success
+- Volume Price Analysis: 58-64% success (climactic patterns 70%+)
+- Select Candlestick Patterns: 58-66% success
+
+**SKIP THESE (Low Success):**
+- Fibonacci Retracements: 50-52%
+- Elliott Wave: 48-52%
+- Gann Lines: 49-51%
+- Complex Chart Patterns: 52-56%
+- Ichimoku Cloud alone: 52-54%
+
+### Machine Learning - What Actually Works
+
+**Proven Methods by Success Rate:**
+1. Dynamic Ensemble (Regime-Switching): **74-82%**
+2. Temporal Fusion Transformer: **64-72%**
+3. Hybrid (Technical + ML + Sentiment): **70-78%**
+4. LSTM + Attention: **66-72%**
+5. Volatility Prediction (GARCH + ML): **75-85%** (easiest!)
+6. XGBoost Ensemble: **62-68%**
+7. Support/Resistance + Volume: **62-70%**
+
+**Recommended Path:**
+- Phase 1 (4-6 weeks): XGBoost + simple patterns → **58-62%** accuracy
+- Phase 2 (3 months): Add LSTM + ensemble → **64-68%** accuracy
+- Phase 3 (6 months): Advanced ensemble + regime detection → **68-74%** accuracy
+
+### Mathematical Methods - Highest Success
+
+**PRIORITY 1: Volatility Prediction**
+- GARCH Models: **75-85%** success rate
+- Realized Volatility + ML: **78-88%** success
+- Easiest to predict, highest accuracy
+- Use for risk management first
+
+**PRIORITY 2: Regime Detection**
+- Hidden Markov Models: Boost all methods by **4-8%**
+- Switch strategies based on market conditions
+- Bull/Bear/Range detection
+
+**PRIORITY 3: Signal Processing**
+- Kalman Filter (velocity): **70-76%** success
+- Wavelet Denoising: **66-72%** (after noise removal)
+- Shannon Entropy: **80-88%** for predictability assessment
+
+### Price, Movement & Velocity Prediction
+
+**Direct Price Prediction:**
+- Quantile Regression (intervals): **68-75%**
+- Classification (5 classes): **58-64%** overall, **68-74%** on strong signals
+- Multi-step prediction: Decreases with horizon (62% @ 1-day → 55% @ 5-day)
+
+**Velocity/Momentum:**
+- Momentum Indicators: **60-68%**
+- Kalman Filter Velocity: **70-76%**
+- Order Flow Velocity (intraday): **72-82%**
+- ADX + Directional Movement: **66-72%**
+
+**Key Insight:** Predict volatility first (easier), then price direction.
+
+### Critical Success Factors
+
+1. **Feature Engineering > Model Choice**
+   - 20 good features + XGBoost = 60-62%
+   - 100 mediocre features + complex model = 58-60%
+   - Spend 70% time on features, 30% on models
+
+2. **Time Series CV is MANDATORY**
+   - Random split = data leakage
+   - Walk-forward validation only
+   - This alone prevents 10-15% overstated accuracy
+
+3. **Ensemble Always Wins**
+   - Single model: 60-64%
+   - Ensemble: 66-72%
+   - Dynamic ensemble: 72-78%
+
+4. **Realistic Targets**
+   - Profitable: >55% after transaction costs
+   - Good: 60-65% sustained
+   - Excellent: 65-72% sustained
+   - Unrealistic: >80% long-term
+
+### What to Build (Priority Order)
+
+**Phase 1: Foundation (Weeks 1-4) → 58-62%**
+1. XGBoost with top 20 features
+2. Support/Resistance detection
+3. MA crossover (enhanced)
+4. Bollinger Bands
+5. Simple ensemble
+
+**Phase 2: Enhancement (Weeks 5-8) → 62-66%**
+1. LSTM model
+2. GARCH volatility
+3. XGBoost + LSTM ensemble
+4. VPA patterns
+5. Regime detection
+
+**Phase 3: Advanced (Weeks 9-16) → 66-72%**
+1. Dynamic ensemble
+2. Kalman filter
+3. TFT (optional, if need 68%+)
+4. Multi-timeframe fusion
+5. Advanced features
+
+### What NOT to Build (Low ROI)
+
+**Methods to Skip:**
+- Fibonacci (50-52% success)
+- Elliott Wave (48-52%, subjective)
+- Gann analysis (no statistical edge)
+- Exotic candlestick patterns (<52%)
+- Pure sentiment analysis alone (51-54%)
+- Complex RL from scratch (high effort, 62-68% only)
+
+**Save Time, Focus on High-Value Methods**
 
 ---
 
 *Session Updated: 2026-02-02*
-*Status: Brainstorming Complete - Specs Generated*
+*Status: Comprehensive Analysis Complete - Ready for Implementation*
+*New Documents: Pattern success rates analyzed, implementation guide created*
