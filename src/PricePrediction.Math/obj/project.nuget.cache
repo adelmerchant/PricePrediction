@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jlPcFwM/15U=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\GitHub\\PricePrediction\\src\\PricePrediction.Math\\PricePrediction.Math.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adelmerchant\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

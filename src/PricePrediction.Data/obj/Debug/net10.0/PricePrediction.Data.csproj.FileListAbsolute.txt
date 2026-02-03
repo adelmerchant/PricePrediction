@@ -1,0 +1,16 @@
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\bin\Debug\net10.0\PricePrediction.Data.deps.json
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\bin\Debug\net10.0\PricePrediction.Data.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\bin\Debug\net10.0\PricePrediction.Data.pdb
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\bin\Debug\net10.0\PricePrediction.Core.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\bin\Debug\net10.0\PricePrediction.Core.pdb
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.csproj.AssemblyReference.cache
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.AssemblyInfoInputs.cache
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.AssemblyInfo.cs
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.sourcelink.json
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePre.661C5C82.Up2Date
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\refint\PricePrediction.Data.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\PricePrediction.Data.pdb
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Data\obj\Debug\net10.0\ref\PricePrediction.Data.dll

@@ -6,7 +6,15 @@
       "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd initial project specs and brainstorming session\n\n- Add comprehensive technical specification document \\(docs/SPECS.md\\)\n- Add brainstorming session notes with all architectural decisions\n- Define tech stack: React, .NET 10, Azure, Cosmos DB, Azure SQL\n- Target: US stock market price prediction for retail investors\n- Freemium model with Free and Premium \\($9.99/mo\\) tiers\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git push:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd ML, pattern detection, and prediction brainstorming\n\n- Add comprehensive ML/AI patterns brainstorming document\n- Cover all pattern detection methods \\(rule-based, template matching, ML, CNN\\)\n- Document mathematical concepts \\(Fourier, wavelets, entropy, HMM, etc.\\)\n- Include deep learning architectures \\(LSTM, GRU, Transformer, CNN\\)\n- Compare local GPU vs Azure ML costs and recommend hybrid approach\n- Local GPU training saves 60-75% vs full Azure ML\n- Update specs with ONNX model export workflow\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd Phase 1 prototype implementation plan\n\n- Complete 4-6 week prototype plan focused on prediction accuracy\n- Simplified architecture: Python + SQLite + FastAPI + minimal React\n- Full code examples for all components:\n  - Data fetching \\(yfinance\\)\n  - Feature engineering \\(60+ features\\)\n  - Pattern detection \\(candlestick, indicators, S/R\\)\n  - XGBoost + LSTM ensemble model with GPU training\n  - FastAPI backend\n  - Minimal React dashboard\n- Local GPU training workflow\n- Daily prediction pipeline scripts\n- Success metrics: >55% direction accuracy target\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd Phase 1 prototype implementation plan\n\n- Complete 4-6 week prototype plan focused on prediction accuracy\n- Simplified architecture: Python + SQLite + FastAPI + minimal React\n- Full code examples for all components:\n  - Data fetching \\(yfinance\\)\n  - Feature engineering \\(60+ features\\)\n  - Pattern detection \\(candlestick, indicators, S/R\\)\n  - XGBoost + LSTM ensemble model with GPU training\n  - FastAPI backend\n  - Minimal React dashboard\n- Local GPU training workflow\n- Daily prediction pipeline scripts\n- Success metrics: >55% direction accuracy target\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "WebSearch",
+      "Bash(dotnet --version:*)",
+      "Bash(dotnet new:*)",
+      "Bash(dotnet sln add:*)",
+      "Bash(dotnet sln:*)",
+      "Bash(dotnet add:*)",
+      "Bash(find:*)",
+      "Bash(dotnet build:*)"
     ]
   }
 }

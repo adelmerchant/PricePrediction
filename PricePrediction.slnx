@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PricePrediction.API/PricePrediction.API.csproj" />
+    <Project Path="src/PricePrediction.Core/PricePrediction.Core.csproj" />
+    <Project Path="src/PricePrediction.Data/PricePrediction.Data.csproj" />
+    <Project Path="src/PricePrediction.Math/PricePrediction.Math.csproj" />
+    <Project Path="src/PricePrediction.ML/PricePrediction.ML.csproj" />
+    <Project Path="src/PricePrediction.Patterns/PricePrediction.Patterns.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PricePrediction.Tests/PricePrediction.Tests.csproj" />
+  </Folder>
+</Solution>

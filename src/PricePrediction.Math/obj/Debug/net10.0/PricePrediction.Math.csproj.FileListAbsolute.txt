@@ -1,0 +1,16 @@
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.csproj.AssemblyReference.cache
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.AssemblyInfoInputs.cache
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.AssemblyInfo.cs
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.sourcelink.json
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\bin\Debug\net10.0\PricePrediction.Math.deps.json
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\bin\Debug\net10.0\PricePrediction.Math.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\bin\Debug\net10.0\PricePrediction.Math.pdb
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\bin\Debug\net10.0\PricePrediction.Core.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\bin\Debug\net10.0\PricePrediction.Core.pdb
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePre.2EE133E5.Up2Date
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\refint\PricePrediction.Math.dll
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\PricePrediction.Math.pdb
+D:\Code\GitHub\PricePrediction\src\PricePrediction.Math\obj\Debug\net10.0\ref\PricePrediction.Math.dll
